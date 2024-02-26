@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://dyxr6cp82h1a3"]
+
+[node name="cenadavitoria" type="Node2D"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_top = 8.0
+offset_right = 1144.0
+offset_bottom = 640.0
+color = Color(0, 0, 0, 0.603922)
+
+[node name="Label" type="Label" parent="."]
+offset_left = 304.0
+offset_top = 264.0
+offset_right = 794.0
+offset_bottom = 374.0
+theme_override_font_sizes/font_size = 80
+text = "Voce Venceu"
